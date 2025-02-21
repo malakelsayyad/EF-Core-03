@@ -20,7 +20,7 @@ namespace Demo.Contexts
         {
             //optionsBuilder.UseLazyLoadingProxies();
             optionsBuilder.UseLazyLoadingProxies().UseSqlServer("Server = .; Database = DBG02; Trusted_Connection = True; TrustServerCertificate=True");
-        }
+        } 
         public DbSet<Department> Departments { get; set; }
         public DbSet<Employee> Employees { get; set; }
     }

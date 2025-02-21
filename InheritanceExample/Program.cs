@@ -6,7 +6,7 @@ namespace InheritanceExample
     internal class Program
     {
         static void Main()
-        {
+        { 
             // 3 Ways to generate schema
             // 1.TPC :Table Per Class
             // 2.TPH :Table Per Heirarchy

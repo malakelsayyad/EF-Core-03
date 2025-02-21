@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DB_First.Models
-{
+{ 
     public partial class SalesByCategoryResult
     {
         [StringLength(40)]
