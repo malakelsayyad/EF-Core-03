@@ -4,7 +4,7 @@
 
 namespace Demo.Migrations
 {
-    /// <inheritdoc />
+    /// <inheritdoc /> 
     public partial class Addview : Migration
     {
         /// <inheritdoc />

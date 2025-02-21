@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Demo.Models
-{
+{ 
     public class Department
     {
         public int Id { get; set; }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace InheritanceExample.Models
 {
     internal class FullTimeEmployee:Employee
-    {
+    { 
         public double Salary { get; set; }
     }
 }

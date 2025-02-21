@@ -9,7 +9,7 @@ namespace Demo.Models
     public class DepartmentManager
     {
         public int EmpId { get; set; }
-        public string Name { get; set; }
+        public string Name { get; set; } 
         public int DeptId { get; set; }
         public string DeptName { get; set; }
 

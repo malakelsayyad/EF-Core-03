@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InheritanceExample.Contexts
+namespace InheritanceExample.Contexts 
 {
     internal class AppDbContext:DbContext
     {

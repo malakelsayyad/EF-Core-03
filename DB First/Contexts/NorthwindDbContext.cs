@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using DB_First.Models;
 using Microsoft.EntityFrameworkCore;
-
+ 
 namespace DB_First.Contexts;
 
 public partial class NorthwindDbContext : DbContext
